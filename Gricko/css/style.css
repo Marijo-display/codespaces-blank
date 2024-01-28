@@ -1,0 +1,124 @@
+body {
+	font-family: Arial;
+	font-size: 13px;
+	line-height: 1.25em;
+	color: #555555;
+}
+.topBarInfoStyle2 {
+    text-align: center;
+}
+/*body, ul, li, h1, h2, h3, p {
+	margin: 0;
+	padding: 0;
+}*/
+.divCol6 {
+	width: 50%;
+	float: right;
+}
+.last {
+	margin-right: 0 !important;
+}
+#divTopBarWrap {
+	background-color: #04233b;
+    padding: 20px 30px;
+    color: #ffffff;
+}
+#divTopBarWrap a {
+	color: white;
+	text-decoration-line: none;
+}
+div {
+	display: block;
+}
+.divCol4 {
+    margin-right: 2%;
+    width: 32%;
+    float: left;
+ }
+ .topBarInfoStyle1 {
+    text-align: right;
+ }
+ .divCol4 p, a{
+ 	 font-size: 16px;
+ }
+#ulMainMenu {
+	list-style-type: none;
+}
+#ulMainMenu li {
+	display: inline-block;
+	margin-left: 10px;
+}
+#ulMainMenu li a {
+	display: block;
+	text-decoration: none;
+	color: #555555;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 10px;
+}
+#divHeaderWrap {
+	padding: 30px 40px;
+}
+#divHeaderWrap h1 {
+	font-size: 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+	float: right;
+}
+#divHeroSectionWrap {
+   background-image: url('grickoNaslovna.jpg');
+   max-width: 100%;
+   height: 500px;
+   border-radius: 15px;
+   border: 1px solid #381043;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-color: #595660;
+}
+#divHeroSection h2, p {
+	font-size:25px;
+	color: #fff;
+	line-height: 26pt;
+	text-decoration-line: none;
+	padding: 10px 10px;
+}
+#divFooterWrap {
+	background-color: #595660;
+	border-radius: 15px;
+	border: 1px solid #Eae2f3;
+}
+img {
+  width: 25%;
+  height: 200px;
+  float: left;
+  box-sizing: border-box;
+  border-radius: 100px;
+  border: 5px solid #Eae2f3;
+}
+#divHero1 {
+   background-image: url('cijenik.jpg');
+   max-width: 100%;
+   height: 500px;
+   border-radius: 15px;
+   border: 1px solid #595660;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color: #595660;
+}
+
+.divHero2 p {
+	color: white;	
+}
+.divHero2 {
+	padding: 100px 55px;
+}
+#divWrap {
+   background-image: url('');
+   max-width: 100%;
+   height: 500px;
+   border-radius: 15px;
+   border: 1px solid #381043;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-color: #595660;
+}
