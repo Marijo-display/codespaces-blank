@@ -9,13 +9,10 @@
         </tr>
     <?php
         $products = array(
-            "Burek s Mesom" => 2,
-            "Sirnica" => 2,
-            "Pizza Burek" => 2,
-            "Langošica" => 2,
-            "Čokoladni Burek" => 2,
-            "Burek s Jabukom" => 2,
-            "Burek s Kupusom" => 2,
+            "Burek s Mesom" => 2.20,
+            "Sirnica" => 2.20,
+            "Burek s Jabukom" => 2.20,
+            "Burek s Kupusom" => 2.20,
         );
 
         foreach ($products as $product => $price) {
